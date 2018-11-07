@@ -24,4 +24,7 @@ we observed a 90% in increase in aliens when we depolyed fireworks
 # conclusions
 space monsters are delighful, we should have more  fireworks
 
+# Figure 
+cathrine wheel
+
 
