@@ -3,8 +3,8 @@ Simulations of space monsters attracted by fireworks on the red orange colour sp
 
 
 #Author
-John Smith
-Ruth Stoney
+John Smith, UOM
+Ruth Stoney, UOM
 
 
 #abstract
