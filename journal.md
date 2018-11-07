@@ -1,5 +1,5 @@
 # Title 
-Space monsters attracted by fireworks
+Space monsters attracted by fireworks on the red orange colour spectrum
 
 #Author
 Ruth Stoney
