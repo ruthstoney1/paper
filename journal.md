@@ -18,5 +18,10 @@ Red is there favourite colour. They get excited
 # methodology
 we set off a tonnes of fireworks (Allen et al 1999) and looked at the sky 
 
+#results
+we observed a 90% in increase in aliens when we depolyed fireworks
+
 # conclusions
 space monsters are delighful, we should have more  fireworks
+
+
