@@ -14,3 +14,6 @@ They can be seen with teloscopes on clear nights (Allen et al 2000).
 #situlations
 john has made some simulations base on happines vs red colour wave length.
 Red is there favourite colour. They get excited
+
+# methodology
+we set off a tonnes of fireworks (Allen et al 1999) and looked at the sky 
