@@ -3,8 +3,9 @@ Simulations of space monsters attracted by fireworks on the red orange colour sp
 
 
 #Author
-Ruth Stoney
 John Smith
+Ruth Stoney
+
 
 #abstract
 space monsters love fireworks
